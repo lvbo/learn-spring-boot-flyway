@@ -1,0 +1,8 @@
+drop view IF EXISTS v_person;
+CREATE VIEW v_person AS
+SELECT * FROM PERSON;
+
+
+DROP VIEW IF EXISTS v_person_1;
+CREATE VIEW v_person_1 AS
+SELECT * FROM PERSON;
