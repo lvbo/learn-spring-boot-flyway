@@ -1,4 +1,4 @@
-package com.lvbo.learn.spring.boot.flyway;
+package io.github.lvbo.learn.spring.boot.flyway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.lvbo.learn.spring.boot.flyway;
+package io.github.lvbo.learn.spring.boot.flyway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

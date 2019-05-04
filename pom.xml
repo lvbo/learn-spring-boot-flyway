@@ -8,7 +8,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.lvbo.learn.spring.boot.flyway</groupId>
+	<groupId>io.github.lvbo</groupId>
 	<artifactId>learn-spring-boot-flyway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learn-spring-boot-flyway</name>
